@@ -93,7 +93,7 @@ const Index = () => {
                   <div className="text-2xl font-bold text-orange-600 mb-2">от 3500₽</div>
                   <ul className="space-y-1 text-sm text-gray-600">
                     <li>• Легковые автомобили</li>
-                    <li>• Грузовые автомобили</li>
+                    <li></li>
                     <li>• Спецтехника</li>
                     <li>• Город, трасса, шоссе</li>
                   </ul>
