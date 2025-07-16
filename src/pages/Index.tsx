@@ -94,7 +94,7 @@ const Index = () => {
                   <ul className="space-y-1 text-sm text-gray-600">
                     <li>• Легковые автомобили</li>
                     <li></li>
-                    <li>• Спецтехника</li>
+                    <li></li>
                     <li>• Город, трасса, шоссе</li>
                   </ul>
                 </div>
